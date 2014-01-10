@@ -21,6 +21,7 @@
 		C9D0222D18808694002E5F7C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9D0220F18808694002E5F7C /* UIKit.framework */; };
 		C9D0223518808694002E5F7C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C9D0223318808694002E5F7C /* InfoPlist.strings */; };
 		C9D0223718808694002E5F7C /* TicTacToeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C9D0223618808694002E5F7C /* TicTacToeTests.m */; };
+		C9D0224318809DF5002E5F7C /* tic-tac-toe-board.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D0224218809DF5002E5F7C /* tic-tac-toe-board.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		C9D0223218808694002E5F7C /* TicTacToeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TicTacToeTests-Info.plist"; sourceTree = "<group>"; };
 		C9D0223418808694002E5F7C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C9D0223618808694002E5F7C /* TicTacToeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TicTacToeTests.m; sourceTree = "<group>"; };
+		C9D0224218809DF5002E5F7C /* tic-tac-toe-board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "tic-tac-toe-board.png"; path = "../../../../Desktop/tic-tac-toe-board.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		C9D0221218808694002E5F7C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C9D0224218809DF5002E5F7C /* tic-tac-toe-board.png */,
 				C9D0221318808694002E5F7C /* TicTacToe-Info.plist */,
 				C9D0221418808694002E5F7C /* InfoPlist.strings */,
 				C9D0221718808694002E5F7C /* main.m */,
@@ -231,6 +234,7 @@
 				C9D0222418808694002E5F7C /* Images.xcassets in Resources */,
 				C9D0221618808694002E5F7C /* InfoPlist.strings in Resources */,
 				C9D0221F18808694002E5F7C /* Main.storyboard in Resources */,
+				C9D0224318809DF5002E5F7C /* tic-tac-toe-board.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
